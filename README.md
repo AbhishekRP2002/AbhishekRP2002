@@ -2,7 +2,7 @@
 ###  Myself Abhishek Ranjan 👋
 
 ### I am a student at [ *National Institute of Technology, Rourkela* ](https://www.nitrkl.ac.in/) , pursuing my Bachelor in Technology , majoring  in Computer Science and Engineering.
-### I'm a passionate self-taught Graphics Designer , Front End Web developer  and above all a passionate student who's eager to learn new interesting things .
+### I'm a passionate self-taught Graphics Designer,UI/UX Designer, Front End Web developer , ML AI enthusiast and above all a passionate student who's eager to learn new interesting things .
 ### 😄 Pronouns :  He/Him
 
 
