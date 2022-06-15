@@ -1,4 +1,4 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+#  Hello world!
 ###  Myself Abhishek Ranjan 👋
 
 ### I am a student at [ *National Institute of Technology, Rourkela* ](https://www.nitrkl.ac.in/) , pursuing my Bachelor in Technology , majoring  in Computer Science and Engineering.
