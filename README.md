@@ -22,14 +22,12 @@
     <img src="https://badges.pufler.dev/repos/AbhishekRP2002?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
+
 <p align="center">
 <a href="https://github.com/AbhishekRP2002"><img src="https://img.shields.io/github/followers/AbhishekRP2002?style=social"></a>
 </p>
-<p align=center> 
-  
-  ### Stats
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=AbhishekRP2002&show_icons=true&theme=radical">
-</p>
+<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekRP2002&theme=radical" alt="Abhishek Ranjan" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=AbhishekRP2002&count_private=true&theme=radical"/></p>
 <br>
 
  Feel free to ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the betterment of the world🌍!
