@@ -6,10 +6,16 @@
 ### 😄 Pronouns :  He/Him
 
 
-### - 📫 How to reach me:
-  - E-Mail : [aviranjan444@gmail.com](mailto:aviranjan444@gmail.com)
+### - 📫 Let's Connect:
+<!--   - E-Mail : [aviranjan444@gmail.com](mailto:aviranjan444@gmail.com)
   - LinkedIn : [Abhishek Ranjan](https://www.linkedin.com/in/abhishek-ranjan-2002/)
-  - Instagram : [Abhishek Ranjan](https://www.instagram.com/___abhis._/)
+  - Instagram : [Abhishek Ranjan](https://www.instagram.com/___abhis._/) -->
+  [![Twitter Badge](https://img.shields.io/badge/-@AbhishekRanjan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abhishek_rp2002)](https://twitter.com/abhishek_rp2002) [![Linkedin Badge](https://img.shields.io/badge/-@AbhishekRanjan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-ranjan-2002/)](https://www.linkedin.com/in/abhishek-ranjan-2002/) [![Medium Badge](https://img.shields.io/badge/-@Abhishek-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aviranjan2121/)](https://medium.com/@aviranjan2121)
+[![GitHub followers](https://img.shields.io/github/followers/AbhishekRP2002?label=Follow&style=social)](https://github.com/AbhishekRP2002/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-aviranjan444@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aviranjan444@gmail.com)](mailto:aviranjan444@gmail.com)
+---
+
+  
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/AbhishekRP2002/count.svg" />
