@@ -6,7 +6,7 @@
 ### 😄 Pronouns :  He/Him
 
 
-### - 📫 Let's Connect:
+### 📫 Let's Connect:
 <!--   - E-Mail : [aviranjan444@gmail.com](mailto:aviranjan444@gmail.com)
   - LinkedIn : [Abhishek Ranjan](https://www.linkedin.com/in/abhishek-ranjan-2002/)
   - Instagram : [Abhishek Ranjan](https://www.instagram.com/___abhis._/) -->
