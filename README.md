@@ -1,4 +1,4 @@
-#  Greetings!
+#  Konnichiwa!
 ###  Myself Abhishek Ranjan 👋
 
 ### I am a pre-final year student at [ *National Institute of Technology, Rourkela* ](https://www.nitrkl.ac.in/) , pursuing my Bachelors in Technology , majoring  in Computer Science and Engineering.
@@ -34,11 +34,16 @@
 
 
 <br/>
-<br/>
 
-<a href="https://github.com/AbhishekRP2002github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhishekRP2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
 
  Feel free to ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the betterment of the world🌍!
+ 
+ <br/>
+ 
+ <br/>
+ 
+ <img hight="320" width="450" align="center" alt="GIF" src="https://in.pinterest.com/pin/721772277761982095/">
+ 
+ <br/>
+
