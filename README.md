@@ -6,7 +6,7 @@
 ### 😄 Pronouns :  He/Him
 
 
-### 📫 Let's Connect:
+### 📫 Feel free to reach out to me :
 <!--   - E-Mail : [aviranjan444@gmail.com](mailto:aviranjan444@gmail.com)
   - LinkedIn : [Abhishek Ranjan](https://www.linkedin.com/in/abhishek-ranjan-2002/)
   - Instagram : [Abhishek Ranjan](https://www.instagram.com/___abhis._/) -->
@@ -37,7 +37,7 @@
 
 <br/>
 
-### Reach out to me if you wanna collaborate  in the domain of Machine Learning!
+
  
  <br/>
  
@@ -46,4 +46,6 @@
  <img align="center" hight="320" width="450"  alt="GIF" src="https://github.com/AbhishekRP2002/AbhishekRP2002/blob/main/Assets/Animated%20gif%20about%20gif%20in%20%F0%9D%95%AC%F0%9D%96%99%F0%9D%96%99%F0%9D%96%86%F0%9D%96%88%F0%9D%96%90%20%F0%9D%95%BA%F0%9D%96%93%20%F0%9D%95%BF%F0%9D%96%8E%F0%9D%96%99%F0%9D%96%86%F0%9D%96%93%20by%20Kaela%20Lage.gif">
  
  <br/>
+ 
+ ## Arigato :wink:
 
