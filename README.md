@@ -37,13 +37,13 @@
 
 <br/>
 
- Feel free to ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the betterment of the world🌍!
+### Reach out to me if you wanna collaborate  in the domain of Machine Learning!
  
  <br/>
  
  <br/>
  
- <img hight="320" width="450" align="center" alt="GIF" src="https://in.pinterest.com/pin/721772277761982095/">
+ <img align="center" hight="320" width="450"  alt="GIF" src="https://github.com/AbhishekRP2002/AbhishekRP2002/blob/main/Assets/Animated%20gif%20about%20gif%20in%20%F0%9D%95%AC%F0%9D%96%99%F0%9D%96%99%F0%9D%96%86%F0%9D%96%88%F0%9D%96%90%20%F0%9D%95%BA%F0%9D%96%93%20%F0%9D%95%BF%F0%9D%96%8E%F0%9D%96%99%F0%9D%96%86%F0%9D%96%93%20by%20Kaela%20Lage.gif">
  
  <br/>
 
