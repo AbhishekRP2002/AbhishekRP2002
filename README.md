@@ -1,12 +1,6 @@
-#  Konnichiwa!
-###  Myself Abhishek Ranjan 👋
+ml engineer leveraging software engineering concepts to solve complex real-world problems with a for turning data into impactful solutions.
 
-### I am a pre-final year student at [ *National Institute of Technology, Rourkela* ](https://www.nitrkl.ac.in/) , pursuing my Bachelors in Technology , majoring  in Computer Science and Engineering.
-### I'm a passionate self-taught Graphics Designer,UI/UX Designer, Front End Web developer , ML AI enthusiast and above all a passionate student who's eager to learn new interesting things .
-### 😄 Pronouns :  He/Him
-
-
-### 📫 Feel free to reach out to me :
+#### 📫 how to reach out to me :
 <!--   - E-Mail : [aviranjan444@gmail.com](mailto:aviranjan444@gmail.com)
   - LinkedIn : [Abhishek Ranjan](https://www.linkedin.com/in/abhishek-ranjan-2002/)
   - Instagram : [Abhishek Ranjan](https://www.instagram.com/___abhis._/) -->
