@@ -18,7 +18,7 @@ ml engineer leveraging software engineering concepts to solve complex real-world
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekRP2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-## 📊 My Github Stats
+## 📊 my github stats
 
   <br/>
     <a href="https://github.com/AbhishekRP2002"><img alt="AbhishekRP's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhishekRP2002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -31,15 +31,6 @@ ml engineer leveraging software engineering concepts to solve complex real-world
 
 <br/>
 
-
  
- <br/>
- 
- <br/>
- 
- <img align="center" hight="320" width="450"  alt="GIF" src="https://github.com/AbhishekRP2002/AbhishekRP2002/blob/main/Assets/Animated%20gif%20about%20gif%20in%20%F0%9D%95%AC%F0%9D%96%99%F0%9D%96%99%F0%9D%96%86%F0%9D%96%88%F0%9D%96%90%20%F0%9D%95%BA%F0%9D%96%93%20%F0%9D%95%BF%F0%9D%96%8E%F0%9D%96%99%F0%9D%96%86%F0%9D%96%93%20by%20Kaela%20Lage.gif">
- 
- <br/>
- 
- ## Arigato :wink:
+ #### arigato :wink:
 
